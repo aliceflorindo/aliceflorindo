@@ -1,4 +1,4 @@
- ## OLÁ! EU SOU ALICE FLORINDO.
+ ## HELLO! I AM ALICE FLORINDO
  
 - 👩‍💻 Estudando Análise e Desenvolvimento de Sistemas.
 - 🌱 Tecnica em Informatica.

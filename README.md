@@ -2,7 +2,6 @@
  
 - 👩‍💻 Estudando Análise e Desenvolvimento de Sistemas.
 - 🌱 Tecnica em Informatica.
-- 👩 Pronouns: ela/dela.
 
 <div> 
    
